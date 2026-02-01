@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Chillax Semibold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Chillax Semibold'), url('../public/Chillax-Semibold.woff') format('woff');
+    }
+
+    body {
+        font-family:"Chillax Semibold";
+    }
+
+    .navbar-font {
+        font-family:"Chillax Semibold" ;
+    }
