@@ -75,16 +75,16 @@ const Navbar: React.FC = () => {
                     <div className="flex-shrink-0 group cursor-pointer">
                         <a
                             href="#"
-                            className="flex items-center space-x-2 transition-transform duration-300 group-hover:scale-105"
+                            className="flex items-center space-x-3 transition-transform duration-300 group-hover:scale-105"
                             aria-label="Pakistan Heritage Home"
                         >
                             <div className="w-10 h-10 bg-gradient-to-br from-orange-400 to-red-500 rounded-lg flex items-center justify-center shadow-lg">
-                                <span className="text-white font-bold text-lg">ᴘ</span>
+                                <span className="text-white font-bold text-lg">R</span>
                             </div>
                             <span
                                 className="hidden sm:block text-xl font-bold text-amber-50 bg-gradient-to-r from-amber-50 to-orange-200 bg-clip-text text-transparent"
                             >
-                                Miraaś
+                                Riwayat
                             </span>
                         </a>
                     </div>
